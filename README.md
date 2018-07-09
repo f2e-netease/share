@@ -6,5 +6,6 @@
 - [【0531】《PixiJS入门与实践》](/201805/PixiJS入门与实践.pdf)
 - [【0614】《你不知道的git》](/201806/你不知道的git.pdf)
 - [【0621】《ES6_let和const命令》](/201806/ES6_let和const命令.pdf)
+- [【0705】《初识Promise》](/201807/Promise.pdf)
 
 
