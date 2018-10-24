@@ -1,0 +1,23 @@
+{
+	"name": "vuex_demo",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"private": true,
+	"platform": "wap",
+	"scripts": {
+		"dev": "f2e -d",
+		"release": "f2e -r"
+	},
+	"repository": {
+		"type": "",
+		"url": ""
+	},
+	"keywords": [],
+	"author": "renke",
+	"license": "ISC",
+	"devDependencies": {},
+	"dependencies": {
+		"vuex": "^3.0.1"
+	}
+}
