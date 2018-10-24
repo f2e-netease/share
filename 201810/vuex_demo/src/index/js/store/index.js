@@ -3,11 +3,11 @@ import Vuex from 'vuex'
 Vue.use(Vuex);
 
 // state
-// const store = new Vuex.Store({
-//     state: {
-//         count: 1,
-//     }
-// })
+const store = new Vuex.Store({
+    state: {
+        count: 1,
+    }
+})
 
 
 
@@ -63,26 +63,26 @@ Vue.use(Vuex);
 
 
 // Module
-const moduleA = {
-    state: { 
-        count: 0 
-    },
-    mutations: {
-        increment(state, payload) {
-            state.count += payload.amount
-        }
-    },
-    getters: {
-        count: state => state.count
-    },
-    actions: {
-    }
-}
-const store = new Vuex.Store({
-    modules: {
-        moduleA
-    }
-})
+// const moduleA = {
+//     state: { 
+//         count: 0 
+//     },
+//     mutations: {
+//         increment(state, payload) {
+//             state.count += payload.amount
+//         }
+//     },
+//     getters: {
+//         count: state => state.count
+//     },
+//     actions: {
+//     }
+// }
+// const store = new Vuex.Store({
+//     modules: {
+//         moduleA
+//     }
+// })
 
 
 export default store;
