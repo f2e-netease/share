@@ -15,4 +15,4 @@
 - [【1018】《Vuex》](/201810/vuex.pdf)
 - [【1025】《Vue Router》](/201810/vue_router.pdf)
 - [【1101】《PostCSS》](/201811/PostCSS.pdf)
-- [【0228】《Chrome开发者工具》](/201901/Chrome开发者工具.pdf)
+- [【0228】《Chrome开发者工具》](/201902/Chrome开发者工具.pdf)
